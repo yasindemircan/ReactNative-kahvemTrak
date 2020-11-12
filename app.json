@@ -1,0 +1,12 @@
+{
+  "name": "KahvemTrak-Again",
+  "displayName": "KahvemTrak-Again",
+  "expo": {
+    "name": "KahvemTrak-Again",
+    "slug": "KahvemTrak-Again",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
